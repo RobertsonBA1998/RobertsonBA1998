@@ -1,35 +1,70 @@
-# Hi there! 👋 I'm Robert!
+<div align="center">
+<img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" align="center" style="width: 100%" />
+</div>  
+  
 
- 
-🚀 Welcome to my GitHub profile! I'm a Junior Full Stack Developer with a passion for creating dynamic and responsive web applications. 
+### <div align="center">Welcome to my GitHub profile! I'm a Junior Full Stack Developer with a passion for creating dynamic and responsive web applications.</div>  
+  
 
-Here are some of my key skills and expertise:
+- 🔭 I’m currently working on [Job Search with ChatGPT](https://github.com/RobertsonBA1998/jobsearchwithchatgpt) and [Portfolio Website](#)  
+  
 
-## Web Development Stack
-🌐 Specialized in the MERN (MongoDB, Express.js, React, Node.js) stack, gaining hands-on experience in full-stack web development.
+- 🌱 I’m currently learning Java  
+  
 
- ██████╗ ██╗   ██╗ ██████╗ ████████╗███╗   ██╗███████╗
-██╔═══██╗╚██╗ ██╔╝██╔═══██╗╚══██╔══╝████╗  ██║██╔════╝
-██║   ██║ ╚████╔╝ ██║   ██║   ██║   ██╔██╗ ██║███████╗
-██║   ██║  ╚██╔╝  ██║   ██║   ██║   ██║╚██╗██║╚════██║
-╚██████╔╝   ██║   ╚██████╔╝   ██║   ██║ ╚████║███████║
- ╚═════╝    ╚═╝    ╚═════╝    ╚═╝   ╚═╝  ╚═══╝╚══════╝
+<br/>  
 
 
-💻 Developed dynamic and responsive web applications using HTML, CSS, JavaScript, and the MERN stack.
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-📘 Familiarity with TypeScript syntax and concepts.
 
-🅰️ Ability to create simple Angular components and use basic Angular features.
 
-📊 Acquired knowledge in database management using MongoDB and integrated server-side and client-side components using Express.js, React, and Node.js.
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+</div>
 
-🌟 Implemented REST API practices to design and develop scalable and efficient web services.
+</td><td valign="top" width="33%">
 
-🤝 Applied agile development methodologies and collaborated in team projects to create robust web solutions.
 
-Let's connect and collaborate on exciting web projects! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/robertson-benitez-093395154/)  
 
-📫 You can also contact me via email at [bluefly06@gmail.com](mailto:youremail@example.com).
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+</div>
 
-Thanks for visiting my profile! 😄
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/RobertsonBA1998" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/robertson-benitez-093395154/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
