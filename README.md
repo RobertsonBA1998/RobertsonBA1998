@@ -21,6 +21,8 @@ I'm a Junior Full Stack Developer with a passion for creating dynamic and respon
 
 ## My Skill Set
 
+<div align="center"> 
+
 ### Frontend
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
@@ -39,7 +41,7 @@ I'm a Junior Full Stack Developer with a passion for creating dynamic and respon
 </div>
 
 <br/>
-<div align="center"> 
+ 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RobertsonBA1998&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
