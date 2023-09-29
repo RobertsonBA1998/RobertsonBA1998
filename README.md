@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" align="center" style="width: 200px; height: 10px;" />
+  <img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" align="center" style="width: 200px; height: 100px;" />
 </div>
 
 # Welcome to My GitHub Profile! 👋
