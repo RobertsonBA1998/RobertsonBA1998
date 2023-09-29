@@ -4,7 +4,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-I'm a Junior Full Stack Developer with a passion for creating dynamic and responsive web applications.
+I'm a Junior Full Stack Developer with a passion for creating dynamic and responsive web applications!
 
 - 🔭 I’m currently working on [Job Search with ChatGPT](https://github.com/RobertsonBA1998/jobsearchwithchatgpt) and my Portfolio Website.
 
@@ -12,11 +12,11 @@ I'm a Junior Full Stack Developer with a passion for creating dynamic and respon
 
 ## Competed Projects
 
-[YourAnimeList](https://github.com/RobertsonBA1998/YourAnimeList)
+- [YourAnimeList](https://github.com/RobertsonBA1998/YourAnimeList)
 
-[FulHause_Ecommerce](https://github.com/RobertsonBA1998/FulHause_Test)
+- [FulHause_Ecommerce](https://github.com/RobertsonBA1998/FulHause_Test)
 
-[Tic_Tac_Toe_Angular](https://github.com/RobertsonBA1998/Tic_Tac_Toe_Angular)
+- [Tic_Tac_Toe_Angular](https://github.com/RobertsonBA1998/Tic_Tac_Toe_Angular)
 
 
 ## My Skill Set
