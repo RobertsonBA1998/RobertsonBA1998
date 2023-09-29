@@ -38,9 +38,10 @@ I'm a Junior Full Stack Developer with a passion for creating dynamic and respon
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 </div>
 
+<br/>
 <div align="center"> 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RobertsonBA1998)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RobertsonBA1998&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
