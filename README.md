@@ -10,7 +10,7 @@ I'm a Junior Full Stack Developer with a passion for creating dynamic and respon
 
 - 🌱 I’m currently learning Java.
 
-## Competed Projects
+## Completed Projects
 
 - [YourAnimeList](https://github.com/RobertsonBA1998/YourAnimeList)
 
