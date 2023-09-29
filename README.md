@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there! 👋 I'm Robert!
 
-<!--
-**RobertsonBA1998/RobertsonBA1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+🚀 Welcome to my GitHub profile! I'm a Junior Full Stack Developer with a passion for creating dynamic and responsive web applications. 
 
-Here are some ideas to get you started:
+Here are some of my key skills and expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Web Development Stack
+🌐 Specialized in the MERN (MongoDB, Express.js, React, Node.js) stack, gaining hands-on experience in full-stack web development.
+
+💻 Developed dynamic and responsive web applications using HTML, CSS, JavaScript, and the MERN stack.
+
+📘 Familiarity with TypeScript syntax and concepts.
+
+🅰️ Ability to create simple Angular components and use basic Angular features.
+
+📊 Acquired knowledge in database management using MongoDB and integrated server-side and client-side components using Express.js, React, and Node.js.
+
+🌟 Implemented REST API practices to design and develop scalable and efficient web services.
+
+🤝 Applied agile development methodologies and collaborated in team projects to create robust web solutions.
+
+Let's connect and collaborate on exciting web projects! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/robertson-benitez-093395154/)  
+
+📫 You can also contact me via email at [bluefly06@gmail.com](mailto:youremail@example.com).
+
+Thanks for visiting my profile! 😄
