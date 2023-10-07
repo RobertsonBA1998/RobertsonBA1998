@@ -8,7 +8,7 @@ I'm a Junior Full Stack Developer with a passion for creating dynamic and respon
 
 - 🔭 I’m currently working on [Job Search with ChatGPT](https://github.com/RobertsonBA1998/jobsearchwithchatgpt) and my Portfolio Website.
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java and further developing my skills in Anuglar and Typescript.
 
 ## Completed Projects
 
