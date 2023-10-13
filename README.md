@@ -6,7 +6,7 @@
 
 I'm a Junior Full Stack Developer with a passion for creating dynamic and responsive web applications!
 
-- 🔭 I’m currently working on [Job Search with ChatGPT](https://github.com/RobertsonBA1998/jobsearchwithchatgpt) and my Portfolio Website.
+- 🔭 I’m currently working on [Job Search with ChatGPT](https://github.com/RobertsonBA1998/jobsearchwithchatgpt) for Moncto Cares and my Portfolio Website.
 
 - 🌱 I’m currently learning Java and further developing my skills in Anuglar and Typescript.
 
