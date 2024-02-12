@@ -8,7 +8,7 @@ I'm a Junior Full Stack Developer with a passion for creating dynamic and respon
 
 - 🔭 I’m currently working on  my Portfolio website, and a website that focuses on saving money.
 
-- 🌱 I’m currently learning Java and further developing my skills in Anuglar and Typescript.
+- 🌱 I’m currently learning Vue.js and Laravel and further developing my skills in Anuglar and Typescript.
 
 ## Completed Projects
 
