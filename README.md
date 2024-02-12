@@ -14,11 +14,11 @@ I'm a Junior Full Stack Developer with a passion for creating dynamic and respon
 
 - [YourAnimeList](https://github.com/RobertsonBA1998/YourAnimeList) hosted online: https://shiny-pie-04edf0.netlify.app/
 
+- [Job Search with ChatGPT](https://github.com/RobertsonBA1998/jobsearchwithchatgpt) Freelance work for Moncton Cares hosted: https://cvgeneratorwithai.netlify.app/
+
 - [FulHause_Ecommerce](https://github.com/RobertsonBA1998/FulHause_Test)
 
 - [Tic_Tac_Toe_Angular](https://github.com/RobertsonBA1998/Tic_Tac_Toe_Angular)
-- [Job Search with ChatGPT](https://github.com/RobertsonBA1998/jobsearchwithchatgpt) Freelance work for Moncton Cares hosted: https://cvgeneratorwithai.netlify.app/
-
 
 ## My Skill Set
 
